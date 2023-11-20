@@ -16,9 +16,13 @@ def generate_random_hint():
 def analyze_gaming_style():
     preferences = {}
 
-    print("Please answer the following questions to help us analyze your gaming style and preferences:")
+    print(
+        "Please answer the following questions to help us analyze your gaming style and preferences:"
+    )
 
-    preferences["difficulty"] = input("What difficulty level do you usually prefer? (Easy, Medium, Hard): ")
+    preferences["difficulty"] = input(
+        "What difficulty level do you usually prefer? (Easy, Medium, Hard): "
+    )
     preferences["playstyle"] = input(
         "Do you prefer a more aggressive or defensive playstyle? (Aggressive, Defensive): "
     )
