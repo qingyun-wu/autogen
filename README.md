@@ -45,13 +45,13 @@ The figure below shows an example conversation flow with AutoGen.
 
 - [A1: Math Problem Solving](./application/A1-math/README.md)
 
-- [A2: Retrieval Augmented Code Generation and Question Answering](./application/A2-retrieval-augmented-chat/README.md)
+- [A2: Retrieval Augmented QA](./application/A2-retrieval-augmented-chat/README.md)
 
-- [A3: Decision Making in Text World Environments](./application/A3-decision-making-ALFWorld/README.md)
+- [A3: Decision Making in Household Tasks](./application/A3-decision-making-ALFWorld/README.md)
 
-- [A4: Multi-Agent Coding](./application/A4-multi-agent-coding/README.md)
+- [A4: Supply-Chain Optimization](./application/A4-supply-chain-optimization/README.md)
 
-- [A5: Dynamic Group Chat](./application/A5-group-chat/README.md)
+- [A5: Dynamic Task Solving with Group Chat](./application/A5-dynamic-task-solving/README.md)
 
 - [A6: Conversational Chess](./application/A6-conversational-chess/README.md)
 
