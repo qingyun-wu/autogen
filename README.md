@@ -55,4 +55,4 @@ The figure below shows an example conversation flow with AutoGen.
 
 - [A6: Conversational Chess](./application/A6-conversational-chess/README.md)
 
-- [A7: Decision Making for Browser Interactions](./application/A7-decision-making-MiniWob++/README.md)
+- [A7: Decision Making for Web Interactions](./application/A7-decision-making-MiniWob++/README.md)
