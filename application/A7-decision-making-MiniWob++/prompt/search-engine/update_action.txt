@@ -1,1 +1,0 @@
- The target of click should be a valid XPath. Therefore, considering the output on the webpage, this instruction should be `

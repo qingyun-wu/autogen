@@ -1,5 +1,0 @@
-langchain
-loguru
-datasets
-backoff
-tiktoken

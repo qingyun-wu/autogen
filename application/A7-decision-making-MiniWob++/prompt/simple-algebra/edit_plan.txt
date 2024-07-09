@@ -1,1 +1,0 @@
-The agent is following the above plan. Do you think that you need to edit the current plan for the agent to solve the task on this webpage? Answer yes or no and explain why.

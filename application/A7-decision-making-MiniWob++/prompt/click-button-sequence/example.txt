@@ -1,4 +1,0 @@
-task: Click button ONE, then click button TWO.
-plan:
-1. Click the button with xpath "//button[@id='subbtn']".
-2. Click the button with xpath "//button[@id='subbtn2']".
