@@ -1,0 +1,17 @@
+- name: Docs
+  href: articles/
+
+- name: Tutorial
+  href: tutorial/
+  
+- name: API Reference
+  href: api/
+
+- name: Release Notes
+  href: update.md
+
+- name: Other Languages
+  dropdown: true
+  items:
+    - name: Python
+      href: https://microsoft.github.io/autogen/
